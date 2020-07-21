@@ -8,3 +8,6 @@ boom
 loom <-iris$Sepal.Length [iris=="venicolor"]
 loom
 
+#ok---
+
+
